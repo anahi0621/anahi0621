@@ -1,2 +1,43 @@
 ### Hi there 👋
-<table><tr><td class="border_t border_b selected" colspan="1" rowspan="1" style="vertical-align: top; display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span>Materias</span></p></div></div></td><td class="border_t border_b selected" colspan="4" rowspan="1" style="display: table-cell; vertical-align: top; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span>Horario</span></p></div></div></td><td class="border_t border_b selected" rowspan="1" style="display: none; vertical-align: top; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_t border_b selected" rowspan="1" style="display: none; vertical-align: top; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td class="border_t border_b selected" rowspan="1" style="display: none; vertical-align: top; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td colspan="1" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Topicos avanzados de programacion</span></p></div></div></td><td colspan="4" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>9-10</span></p></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td colspan="1" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Taller de sistemas operativos</span></p></div></div></td><td colspan="4" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>2-3</span></p></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td colspan="1" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Administracion de redes</span></p></div></div></td><td colspan="4" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>4-5</span></p></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td colspan="1" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Lenguajes y automatas II</span></p></div></div></td><td colspan="4" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>5-6</span></p></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td colspan="1" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Programacion WEB</span></p></div></div></td><td colspan="4" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>6-7</span></p></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr><tr><td colspan="1" rowspan="1" class="border_b selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>Sistemas programables(GLOBAL)</span></p></div></div></td><td colspan="4" rowspan="1" class="border_b selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>5-6</span></p></div></div></td><td rowspan="1" class="border_b selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="border_b selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td><td rowspan="1" class="border_b selected" style="display: none; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"></div></div></td></tr></table>
+<br>
+
+<h1> information </h1>
+<br>
+control number: 18210486
+
+
+
+
+<br>
+<br><br>
+
+
+<table><tr><td class="border_t border_b border_l selected" colspan="1" rowspan="1" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span>lunes </span></p></div></div></td><td colspan="1" rowspan="1" class="border_l border_t border_r border_b selected" style="display: table-cell; text-align: left; vertical-align: top;"><div class="wrap"><div style="margin: 10px 5px;" class="" contenteditable="false"><p><span>9305</span></p></div></div></td></tr><tr><td colspan="1" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>martes</span></p></div></div></td><td colspan="1" rowspan="1" class="border_l border_t border_r border_b selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>LCLC</span></p></div></div></td></tr><tr><td colspan="1" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>miercoles</span></p></div></div></td><td colspan="1" rowspan="1" class="border_l border_t border_r border_b selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>9305</span></p></div></div></td></tr><tr><td colspan="1" rowspan="1" class="selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>jueves</span></p></div></div></td><td colspan="1" rowspan="1" class="border_l border_t border_r border_b selected" style="display: table-cell; text-align: left;"><div class="wrap"><div style="margin: 10px 5px;"><p><span>LCLB</span></p></div></div></td></tr></table>
+
+
+Nombre del maestro: RENE SOLIS REYES.
+
+Materia: Sistemas programables.
+
+Herramientas para clases
+
+Arduino clasico
+
+STM32
+
+RaspberryPi
+
+kit de sensores y herramientas soldar
+
+
+<br>
+
+```
+  fn main() {
+      println!("Hello World!");
+  }
+   require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+  
+```
